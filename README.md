@@ -8,7 +8,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/EMAIL-varrapa25%40gmail.com-2ea44f?logo=gmail" alt="EMAIL - varrapa25@gmail.com" width="600">
+<img src="https://img.shields.io/badge/EMAIL-varrapa25%40gmail.com-2ea44f?logo=gmail" alt="EMAIL - varrapa25@gmail.com" width="200">
+
+
+<a href="https://github.com/PatricioVargasR"><img src="https://img.shields.io/badge/GitHub-PatricioVargasR-2ea44f?logo=github" width="200" alt="GitHub - PatricioVargasR"></a>
 
 </div>
 
