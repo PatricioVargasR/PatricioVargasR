@@ -2,18 +2,19 @@
 
 ###
 
-<p align="center">Un ¿apasionado? estudiante de Desarrollo de Software</p>
+  <p align = "center">
+    Un ¿apasionado? estudiante de Desarrollo de Software
+  </p>
 
 ###
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/EMAIL-varrapa25%40gmail.com-2ea44f?logo=gmail" alt="EMAIL - varrapa25@gmail.com" width="200">
+<p align="center">
+<a href="https://www.linkedin.com/in/patricio-vargas-ramirez-390074283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patricio-vargas" height="30" width="40" /></a>
+<a href="https://instagram.com/patricio_hooke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patricio_hooke" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/linpsvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="linpsvm" height="30" width="40" /></a>
+</p>
 
-
-<a href="https://github.com/PatricioVargasR"><img src="https://img.shields.io/badge/GitHub-PatricioVargasR-2ea44f?logo=github" width="200" alt="GitHub - PatricioVargasR"></a>
-
-</div>
 
 ###
 
