@@ -7,9 +7,9 @@
 ###
 
 <div align="center">
-![EMAIL - varrapa25@gmail.com](https://img.shields.io/badge/EMAIL-varrapa25%40gmail.com-2ea44f?logo=gmail)
-</div>
 
+</div>
+![EMAIL - varrapa25@gmail.com](https://img.shields.io/badge/EMAIL-varrapa25%40gmail.com-2ea44f?logo=gmail)
 ###
 
 <h2 align="left">📌 Acerca de mi:</h2>
