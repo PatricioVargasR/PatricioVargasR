@@ -8,9 +8,7 @@
 
 <div align="center">
 
-<i>Dash badge</i>
-
-<img src="https://img.shields.io/badge/EMAIL-varrapa25%40gmail.com-2ea44f?logo=gmail" alt="EMAIL - varrapa25@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-varrapa25%40gmail.com-2ea44f?logo=gmail" alt="EMAIL - varrapa25@gmail.com" width="12">
 
 </div>
 
