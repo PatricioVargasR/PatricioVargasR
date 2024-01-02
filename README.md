@@ -8,8 +8,12 @@
 
 <div align="center">
 
+<i>Dash badge</i>
+
+<img src="https://img.shields.io/badge/EMAIL-varrapa25%40gmail.com-2ea44f?logo=gmail" alt="EMAIL - varrapa25@gmail.com">
+
 </div>
-![EMAIL - varrapa25@gmail.com](https://img.shields.io/badge/EMAIL-varrapa25%40gmail.com-2ea44f?logo=gmail)
+
 ###
 
 <h2 align="left">📌 Acerca de mi:</h2>
