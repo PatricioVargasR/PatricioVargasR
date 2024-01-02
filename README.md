@@ -13,9 +13,6 @@
   <ahref="https://www.youtube.com/@linpsvm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="55" height="40" alt="youtube logo"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGLCMVLhBgmJQsKJGFqqTqtKLVkfxQMsMXXxrRhlqZmCfMtzjgGMdKRlfTcxqMmVFGDTWQg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"/>
-  </a>
   <a href="https://www.instagram.com/patricio_hooke/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"/>
   </a>
